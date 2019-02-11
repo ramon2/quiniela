@@ -1,4 +1,1 @@
-quiniela
-========
 
-Aplicacion quiniela
